@@ -1,0 +1,32 @@
+<H1 class="p1">
+  How To Speed Run Minecraft Part 2
+</H1>
+<text1 class="p1">
+ <p> 4. Once you have the iron ingots, craft an iron bucket. The bucket is needed to carry lava and water for crafting obsidian blocks. You can usually find a lava pool in the desert.
+ </p>
+</text1>
+<text2 class="p1">
+  <p> 5. Use the bucket to splash water over lava to create obsidian blocks. Place the blocks in the shape of a doorway to create a nether portal.
+  </p>
+</text2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRdePAOfHiqkRiN8-bU5Aqnoll70Zn3BUH5Q&usqp=CAU">
+<text3 class="p1">
+ <p> 6. Once you reach the Nether, there are several tasks you need to complete to progress. The first one is the easiest: roam around and gather enough gold ore to craft about 40 gold ingots. Trade the ingots later to acquire ender pearls.
+ </p>
+</text3>
+<text4 class="p1">
+  7. Scout around the Nether until you find a nether fortress. In addition to containing chests with valuable items, the nether fortress can have a blaze spawner. Blazes are enemies that drop blaze rods. These can be broken down into blaze powder, one of the ingredients needed to craft ender eyes.
+</text4>
+<img src="https://staticg.sportskeeda.com/editor/2022/05/06f2b-16516704947399-1920.jpg">
+<style>
+.p1{
+  font-family: "Copperplate", "Papyrus", Fantasy;
+}
+body {
+  background-color: #e3dac9;
+}
+img {
+  width: 350px;
+  height: 200px;
+}
+</style>
